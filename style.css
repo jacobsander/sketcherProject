@@ -1,0 +1,36 @@
+#modes{
+	float: right;
+	margin-top: -50px;
+
+}
+
+#container{
+	width: 600px;
+	margin: auto;
+}
+
+/*#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}*/
+
+#sketchpad{
+	background-color: red;
+	height: 600px;
+	width: 600px;
+	margin: 10px auto;
+}
+
+.row {
+    display: flex;
+}
+
+.square{
+	display: inline-block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    opacity: 0;
+	background-color: black;
+}
